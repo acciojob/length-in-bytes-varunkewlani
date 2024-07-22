@@ -1,8 +1,8 @@
 const byteSize = (str) => {
-	return (str.length)
-  // write your code here
+	return (sizeof[str])
+  // write your code hzere
 };
 
 // Do not change the code below
-const str = prompt("Enter some string.")
+const str = prompt("Enter some string.") 
 alert(byteSize(str))
